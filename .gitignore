@@ -27,3 +27,8 @@ electron/pub
 # Auto-generated file
 /src/modules.ts
 /build_config.yaml
+
+/.yarn
+/.yarnrc.yml
+
+/controllability-deps
